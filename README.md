@@ -1,7 +1,7 @@
 # HIBRIDACIÓN DE MEDIOS 
 Con las Gafas de de Manovich: la evolucion de la hibridación
 
-### <u style ="color:#FFFF00" font-size="10px">*Susana Izquierdo Ruiz*</u>
+### <u style ="color:#FFFF00" font-size="5px">Susana Izquierdo Ruiz</u>
 
 ![1_Q126mgjvk0az7ZhxLznK9Q](https://user-images.githubusercontent.com/95432042/144762413-ecdef43e-84a8-4e54-965b-95c9722b8864.png)
 
