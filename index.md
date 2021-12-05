@@ -1,8 +1,9 @@
-## REDESCUBRIENDO LA HIBRIDACIÓN
+# PEC3_Manovich_Reloaded
+Con las Gafas de de Manovich
 ### *Susana Izquierdo Ruiz*
 
-Esto es una prueba de lenguaje marckdown y la inserción de una imágen.
-! [esto es una imagen](img/3.png)
+esto es una prueba que estoy realizando, estoy añadiendo una imagen ![1_Q126mgjvk0az7ZhxLznK9Q](https://user-images.githubusercontent.com/95432042/144762413-ecdef43e-84a8-4e54-965b-95c9722b8864.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -37,3 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
