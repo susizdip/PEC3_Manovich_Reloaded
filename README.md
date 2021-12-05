@@ -1,7 +1,5 @@
 # PEC3_Manovich_Reloaded
 Con las Gafas de de Manovich
-# PEC3_Manovich_Reloaded
-Con las Gafas de de Manovich
 ### *Susana Izquierdo Ruiz*
 
 esto es una prueba que estoy realizando, estoy añadiendo una imagen ![esto es el texto alternativo de](img/3.png)
