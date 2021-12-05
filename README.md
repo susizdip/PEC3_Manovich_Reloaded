@@ -2,7 +2,8 @@
 Con las Gafas de de Manovich
 ### *Susana Izquierdo Ruiz*
 
-esto es una prueba que estoy realizando, estoy añadiendo una imagen ![esto es el texto alternativo de](img/3.png)
+esto es una prueba que estoy realizando, estoy añadiendo una imagen ![1_Q126mgjvk0az7ZhxLznK9Q](https://user-images.githubusercontent.com/95432042/144762413-ecdef43e-84a8-4e54-965b-95c9722b8864.png)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
