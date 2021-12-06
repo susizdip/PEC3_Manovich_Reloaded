@@ -8,7 +8,7 @@
 
 ## Planteamiento
 
-### ## Re-descubriendo la hibridacion: Caso 1
+## Re-descubriendo la hibridacion: Caso 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
