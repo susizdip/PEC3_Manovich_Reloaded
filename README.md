@@ -24,7 +24,8 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos
 
 Observamos que los nuevos medios o especies que acontinuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, es ahora y en estos momentos en la fase de aparición especies que pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar o invertir y divertirnos todo a través de una sola plataforma. En ambos casos mediante tecnologías inmersivas como la realidad virutal (RV) y la realidad aumentada (AR).
 
-<iframe width="740" height="590" src="https://youtu.be/_yI_nXlWQAk" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_yI_nXlWQAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 
 ## Re-descubriendo la hibridacion: Caso 1
@@ -37,6 +38,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Re-descubriendo la hibridacion: Caso 2
+***
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Referencias y Bibliografía
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 ***
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
