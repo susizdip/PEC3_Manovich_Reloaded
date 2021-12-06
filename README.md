@@ -53,12 +53,12 @@ VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni mi
 #### *Oculus Venues*
 Es una app de Facebook,creada para eventos sociales.
 
-[aplicaciones disponibles]https://www.oculus.com/experiences/quest/3002729676463989/ 
+[aplicaciones disponibles](https://www.oculus.com/experiences/quest/3002729676463989/)
 
 #### *FitXR*
 Se trata de aplicación número uno en boxeo, HIIT y baile, cuenta con cientos de ejercicios para usuarios intermedios y avanzados. El usaurio de la app se une a una comunidad en continua crecimiento, entre ellos se enrtena con 6 amigos, y quema calorías haciendo ejercicios para elevar la fuerza y nivel de endomorfinas. Para todos los días hay una clase diseñada. Disponen de la elección de la mejor música y de chat de voz, así como de entornos llenos de energía.
 
-[aplicaciones disponibles]https://www.oculus.com/experiences/quest/2327205800645550/ 
+[aplicaciones disponibles](https://www.oculus.com/experiences/quest/2327205800645550/)
 
 
 En desarrollo de esta próxima frontera tecnológica implica que que no será una implementación radical, sino paulatina por lo que se irán incluyendo nuevas plataformas, elementos e interconexiones hasta que en un futuro no muy lejano podamos hablar de metaveso.
@@ -75,9 +75,6 @@ Los atributos cenrtales o pilares de metaverso son:
 - Está poblado de contenido y experiencias creadas y operadas por un increíble amplio rango de colaboradores, que pueden ser individuos independientes, estar organizados en grupos informales o ser empresas con fines comerciales.
 
 !Todo un mundo!
-
-
-
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
