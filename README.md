@@ -1,4 +1,4 @@
- ### Recurso de aprendizaje de Cultura Digital 
+### Recurso de aprendizaje de Cultura Digital 
 ### Autor: <em style ="color:#f5cb11">Susana Izquierdo Ruiz</em>
 ### Fecha: <em style ="color:#f5cb11">12.12.2021</em>
 ***
@@ -24,7 +24,7 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos
 
 Observamos que los nuevos medios que acontinuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos en los que la presencia de estos medios pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar o invertir, divertirnos, aprender o producir, todo a través de una sola plataforma o aplicación. En ambos casos mediante tecnologías inmersivas como la realidad virutal (RV) y la realidad aumentada (AR).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_yI_nXlWQAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ot9lLrQHocA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
