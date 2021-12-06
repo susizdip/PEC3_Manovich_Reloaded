@@ -29,7 +29,7 @@ Observamos que los nuevos medios que acontinuación mencionamos en este informe 
 ***
 
 ## Re-descubriendo la hibridacion: Metaverso. 
-Bailar en un concietro en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo próximo años, pensado entre 5 - 10 años, recordando un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zukerberg apuesta para establecer como parte de una tendecia dominante que creo no demasiado económica a pesar de que prodiga como menos contaminante. Meta como parte del proyecto ya adquirido al productor de realidad virtual las oculus además de las gafas Ray-Ban realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial.
+Bailar en un concietro en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo próximo años, pensado entre 5 - 10 años, recordando un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zukerberg apuesta para establecer como parte de una tendecia dominante que creo no demasiado económica a pesar de que prodiga como menos contaminante. Meta como parte del proyecto ya adquirido al productor de realidad virtual las oculus además de las gafas Ray-Ban realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
 
 ¿Qué aplicaciones se están desarrollando?
 
@@ -50,7 +50,32 @@ VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni mi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1krqwpe_E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### *Oculus Venues*
+Es una app de Facebook,creada para eventos sociales.
+
+[aplicaciones disponibles]: https://www.oculus.com/experiences/quest/3002729676463989/ 
+
+#### *FitXR*
+Se trata de aplicación número uno en boxeo, HIIT y baile, cuenta con cientos de ejercicios para usuarios intermedios y avanzados. El usaurio de la app se une a una comunidad en continua crecimiento, entre ellos se enrtena con 6 amigos, y quema calorías haciendo ejercicios para elevar la fuerza y nivel de endomorfinas. Para todos los días hay una clase diseñada. Disponen de la elección de la mejor música y de chat de voz, así como de entornos llenos de energía.
+
+[aplicaciones disponibles]: https://www.oculus.com/experiences/quest/2327205800645550/ 
+
+
+En desarrollo de esta próxima frontera tecnológica implica que que no será una implementación radical, sino paulatina por lo que se irán incluyendo nuevas plataformas, elementos e interconexiones hasta que en un futuro no muy lejano podamos hablar de metaveso.
+Según Mark Zuckerberg conllevará la creación de 10.000 puestos de empleo solo en Europa.
+
+Los atributos cenrtales o pilares de metaverso son:
+
+- Es persistente: no termina, no se pausa, no se reinicia. Continúa de forma idefinida
+- Está sincronizado y es directo: es una experiencia en vivo que exisite de forma consistente en el tiempo real para todos.
+- No tiene tope para los usuarios concurrentes, mientras que provee a cada usuario con un sentido individual de presencia.
+- Es una economía completamente funcional: donde los individuos y compañias pueden crear, poseer, vender y ser retribuidos por un rango increiblemente de trabajo que produce valor reconocidos por todos.
+- Es una experiencia que expande ambos mundos, el mundo digital y el mundo físico, redes y experiencias públicas y privadas, así como plataformas abiertas y cerradas.
+- Ofrece interoperabilidad a una escala sin prcedentes: en cuanto a datos, ítems de valores digitales, contenidos y así a través de cada una de las experiencias.
+- Está poblado de contenido y experiencias creadas y operadas por un increíble amplio rango de colaboradores, que pueden ser individuos independientes, estar organizados en grupos informales o ser empresas con fines comerciales.
+
+!Todo un mundo!
+
 
 
 
