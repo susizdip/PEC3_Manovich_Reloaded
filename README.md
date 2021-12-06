@@ -1,12 +1,6 @@
-### Recurso de aprendizaje de Cultura Digital 
-### Autor: <em style ="color:#f5cb11">Susana Izquierdo Ruiz</em>
-### Fecha: <em style ="color:#f5cb11">12.12.2021</em>
-***
-![1_Q126mgjvk0az7ZhxLznK9Q](https://user-images.githubusercontent.com/95432042/144762413-ecdef43e-84a8-4e54-965b-95c9722b8864.png)
-
 ## Planteamiento
 
-En el libro *El software toma el mando*, de Lev Manovich nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
+En el libro *El software toma el mando*, *de <b>Lev Manovich</b>>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
 
 ```markdown
 1. La multimedia es un caso de solapamiento de dos fenómenos difrerentes, mientras que en la hibridación se fusionan para ofrecer una experiencia nueva coherente, que es distinto a experimentar los elementos uno por uno. No es por tanto una remezcla para formar nuevas combinaciones, estos nuevos medios se consideran una especie.
@@ -18,8 +12,9 @@ En el libro *El software toma el mando*, de Lev Manovich nos plantea una clara d
 	- Los hibridos pueden centrarse en nuevas formas de navegar e interaccionar con formatos de medios ya existentes.
 	- La hibridación se produce en la interfaz de usuario y las herramientas que facilitan el proyecto, servcio o aplicación. En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios modificados y a su vez utilizarlas a su manera las ya existentes.
 
-Manovich, Lev *El software toma el mando*. Editorial UOC, 2013. ISBN: 978-84-9064-022-7
 ```
+
+Manovich, *Lev El software toma el mando* . Editorial UOC, 2013. ISBN: 978-84-9064-022-7
 ***
 
 ## Re-descubriendo la hibridacion: Caso 1
@@ -32,6 +27,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Re-descubriendo la hibridacion: Caso 2
+***
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Referencias y Bibliografía
+
 ***
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
