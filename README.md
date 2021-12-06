@@ -1,5 +1,3 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
-
 ### Recurso de aprendizaje de Cultura Digital 
 ### Autor: <em style ="color:#f5cb11">Susana Izquierdo Ruiz</em>
 ### Fecha: <em style ="color:#f5cb11">12/12/2021</em>
