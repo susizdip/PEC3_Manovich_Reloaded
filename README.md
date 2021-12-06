@@ -1,6 +1,12 @@
+### Recurso de aprendizaje de Cultura Digital 
+### Autor: <em style ="color:#f5cb11">Susana Izquierdo Ruiz</em>
+### Fecha: <em style ="color:#f5cb11">12.12.2021</em>
+***
+![1_Q126mgjvk0az7ZhxLznK9Q](https://user-images.githubusercontent.com/95432042/144762413-ecdef43e-84a8-4e54-965b-95c9722b8864.png)
+
 ## Planteamiento
 
-En el libro *El software toma el mando*, *de <b>Lev Manovich</b>>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
+En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
 
 ```markdown
 1. La multimedia es un caso de solapamiento de dos fenómenos difrerentes, mientras que en la hibridación se fusionan para ofrecer una experiencia nueva coherente, que es distinto a experimentar los elementos uno por uno. No es por tanto una remezcla para formar nuevas combinaciones, estos nuevos medios se consideran una especie.
@@ -14,7 +20,11 @@ En el libro *El software toma el mando*, *de <b>Lev Manovich</b>>* nos plantea u
 
 ```
 
-Manovich, *Lev El software toma el mando* . Editorial UOC, 2013. ISBN: 978-84-9064-022-7
+<strong>Manovich, Lev</strong> *El software toma el mando*. Editorial UOC, 2013. ISBN: 978-84-9064-022-7
+
+Observamos que los nuevos medios o especies que acontinuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, es ahora y en estos momentos en la fase de aparición especies que pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar o invertir y divertirnos todo a través de una sola plataforma. En ambos casos mediante tecnologías inmersivas como la realidad virutal (RV) y la realidad aumentada (AR).
+
+<iframe width="740" height="590" src="https://youtu.be/_yI_nXlWQAk" frameborder="0"></iframe>
 ***
 
 ## Re-descubriendo la hibridacion: Caso 1
@@ -27,12 +37,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Re-descubriendo la hibridacion: Caso 2
-***
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Referencias y Bibliografía
-
 ***
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
