@@ -13,7 +13,7 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos
 2. En los medios híbridos confluyen los lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a niveles profundos.
 3. Se pueden estructurar de forma distintas:
 
-	- Usando un tipo de medios como interfaz para otro tipo, es decir, utilizar un tipo de medio como envoltorio para otro tipo (como por ejemplo un espacio en 3D que contiene películas, vídeos y clips).
+	- Usando un tipo de medios como interfaz para otro tipo, es decir, utilizar un tipo de medio como envoltorio para otro tipo (como por ejemplo un 	  espacio en 3D que contiene películas, vídeos y clips).
 	- Presentan nuevas formas de representar el mundo o de navegar. Crean nuevas representataciones de experiencias humanas colectivas e individuales fundiendo las dos dimensiones la objetiva y la subjeiva. Representarn el mundo de forma novedosa, combinando y reconfigurando los medios que ya conocemos (mapas, vídeo, objetos 3d, páginas web, fotos).
 	- Los hibridos pueden centrarse en nuevas formas de navegar e interaccionar con formatos de medios ya existentes.
 	- La hibridación se produce en la interfaz de usuario y las herramientas que facilitan el proyecto, servcio o aplicación. En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios modificados y a su vez utilizarlas a su manera las ya existentes.
@@ -35,11 +35,13 @@ Bailar en un concietro en directo de forma virtual, reunirse en una fiesta con a
 ¿Qué aplicaciones se están desarrollando?
 
 #### *Wander*
+
 Podría ser el Google Street View de realidad virual, pudiendo teletransportarnos a cualquier lugar del mundo acompañados de amigos. Pirámides de Egipto, Antártida, Patagonia, quién dice que están lejos... solo necesitaremos pagar la aplicación y unas oculus para tenerlo al alcance de la mano. Uniendo en este caso la realidad virtual, con Google maps, Google Etarh, Google Street view, además de la geolocalización en una app inmersa en una plataforma como facebook, aunque no necesariamente, para aportarnos una experiencia compartida de teletransportarnos a algún lugar seleccionado y comentarlo entre todos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xZHsQJlqbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### *Spatial*
+
 Enfocada al teletrabajo y presentacioens inmersivas, compartándose de forma similar a lo que lo hace Zoom o Teams pero con avatares y lugares virtuales ficticios donde interactuar y negociar. Nos permitirá crear un avatar 3D realista a partir de un selfie en segundos, usuar bloc de notas, busquéda de imágenes todo ello integrado totalmente con Slack (es una nueva forma de comunicarse con su equipo. Es más rápido, mejor organizado y más seguro que el correo electrónico), Google Drive y más. Estamos seguros de que requeríra una interfaz específica o apropiada de otras.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0JD6F9XYrMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,6 +52,7 @@ VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni mi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1krqwpe_E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### *Oculus Venues*
+
 Es una app de Facebook,creada para eventos sociales.
 
 [aplicaciones disponibles](https://www.oculus.com/experiences/quest/3002729676463989/)
@@ -88,13 +91,22 @@ Es un programa informático muktuplataforma dedicado al modelado, iluminación, 
 
 ![Captura de pantalla 2021-12-07 a las 21 31 14](https://user-images.githubusercontent.com/95432042/145102296-4e4b0747-76a3-4db1-9e8e-8bb8a071494b.png)
 
+<b style="color:#f5cb11">interfaz de blender</b>
 
-### Referencias y Bibliografía
+La complejidad de la interfaz salta a primera vista ya que incluye menis para la animación 3D, para la escultura digital y el renderizado, animación 2D, vídeo, iluminaicón, escenarios y pintura digital. Hasta la versión 2.8 era bastante más compeljo está versión marco un después en cuanto a usuabilidad, haciéndose mucho más fácil. Su organización está pensada para que podamos pasar de un entorno a otro en función de nuestras necesidades de forma que si estamos en modelado estaremos en en el entorno Default (por defecto) y si vamos a hacer el montaje de una película pasaremos a enorno de vídeo editin o editor de vídeos, las distintas áreas en las que se divide un entorno son los editores y puede ser elejidos por el usuario desplegando el menú correspondiente al icono de cada área.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-***
+<img width="1439" alt="Captura de pantalla 2021-12-07 a las 21 49 45" src="https://user-images.githubusercontent.com/95432042/145104175-6e859c18-49f4-4cee-95c1-808b72e2f044.png">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/susizdip/readme.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<b style="color:#f5cb11">Menú de Blender</b>
+Las posibilidades del programa son enormes y el aprendizaje requiere un poco de esfuerzo para hacerse con todas estas posiblidades descritas, la gan ventaja es toda la información que podemos obtener de la comunidad de Blender y la explicación de todas las ventanas, herramientas y controles de la interfaz. Os dejo el link por si os animáis.
+
+[comunidad Blender](https://www.oculus.com/experiences/quest/2327205800645550/)
+
+Blender constituría un híbrido formado por muchos otros programas en que el todo es más que la suma de todas sus partes. Las opiniones y valoraciones en el mundo del modelaje profesional y entornos 3D, lo hacen un imprescindible, poniéndolo a la misma altura que los programas de pago más conocidos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRqY_20ti9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Referencias y Bibliografía
 
