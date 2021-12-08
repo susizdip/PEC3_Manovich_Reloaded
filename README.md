@@ -6,7 +6,7 @@
 
 ## Planteamiento
 
-En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
+En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
 
 ```markdown
 1. La multimedia es un caso de solapamiento de dos fenómenos difrerentes, mientras que en la hibridación se fusionan para ofrecer una experiencia nueva coherente, que es distinto a experimentar los elementos uno por uno. No es por tanto una re-mezcla para formar nuevas combinaciones, estos nuevos medios se consideran una especie.
@@ -24,13 +24,13 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos
 
 ***
 
-Observamos que los nuevos medios que acontinuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos en los que la presencia de estos medios pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo a través de una sola plataforma o aplicación. Mediante tecnologías inmersivas como la realidad virutal (RV) y la realidad aumentada (AR) en el caso de Metaverso o el 3D en el caso de Blender como una plataforma para el modelaje de personales y animación enrte otras cosas.
+Observamos que los nuevos medios que a continuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos donde estos híbridos pretender cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo ello viene definir un nuevo concepto de internet (tridimensional, multisensorial); y por otro lado presento una herramienta multiplataforma potente que permite crear mundos tridimensionales y animarlos. ¿Puede ser la realidad virtual (VR) la apuesta innovadora del futuro?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ot9lLrQHocA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
-## 1. Re-descubriendo la hibridacion: Metaverso. 
+## Re-descubriendo la hibridacion: Metaverso. 
 Bailar en un concierto en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo en los próximos años, pensado entre 5 - 10 años, recordándonos un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zuckerberg apuesta para establecer como parte de una tendencia dominante que creo no va ser demasiado económica a pesar de que prodiga como menos contaminante ya que se hace todo desde casa. Meta como parte de su proyecto ya adquirido al productor de realidad virtual las Oculus además de las gafas Ray-Ban para realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon, con no demasiado éxito. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
 
 ¿Qué aplicaciones se están desarrollando?
@@ -92,7 +92,7 @@ Los atributos centrales o pilares de metaverso son:
 
 ***
 
-## 2. Re-descubriendo la hibridación: Blender
+## Re-descubriendo la hibridación: Blender
 Es un programa informático multiplataforma dedicado al modelado, iluminación, renderizado y animación en gráficos tridimensionales. Utilizando técnica procesal de nodos, edición de vídeo y escultura, además de pintura digital, es software libre y compatible con casi todos los sistemas operativos. Se creo inicialmente como un programa interno para el modelado 3D de un estudio, NeoGeo 1988, de ahí pasó ser una empresa independiente exclusivamente dedicada al desarrollo de Blender con la intención de ponerla en la mano de cualquier artista o estudio. 1999, NaN (Not a Numbre), presento oficialmente a Blender de forma que consiguió financiación imedita, de forma que la empresa paso a tener 50 trabajadores distribuidos por todo el mundo y dedicados exclusivamente al desarrollo Blender. Una de las características de Blender es una interfaz no muy común y de una comunidad de usuarios que fomentan, y desarrolllan indirectamente el producto hasta el presente. Blender aúna una multiplataforma con herramientas como animación que incluye cinemática inversiva, edición de audio, mallas poligonales, renderizado, lenguaje Python, Motor de juego 3D integrado, simuladores dinámicos, simulador de texturas y capacidad de hacer match moving,  que consiste en mover la cámara en entornos virtuales al igual que se haría en una película, de forma que cuando los elementos generados son integrados en algún film, anuncio, parecen estar ahí desde un principio.
 
 ![Captura de pantalla 2021-12-07 a las 21 31 14](https://user-images.githubusercontent.com/95432042/145102296-4e4b0747-76a3-4db1-9e8e-8bb8a071494b.png)
@@ -107,7 +107,7 @@ La complejidad de la interfaz salta a primera vista ya que incluye menús para l
 
 Las posibilidades del programa son enormes y el aprendizaje requiere un poco de esfuerzo para hacerse con todas estas opciones descritas, la gran ventaja es toda la información que podemos obtener de la comunidad de Blender y los elementos didácticos disponibles con la explicación de todas las ventanas, herramientas y controles de la interfaz. Os dejo el link por si os animáis.
 
-[comunidad Blender](https://www.oculus.com/experiences/quest/2327205800645550/)
+[Comunidad Blender](https://www.oculus.com/experiences/quest/2327205800645550/)
 
 Blender constituiría  un híbrido, según Manovich, formado por muchos otros programas en que el todo es más que la suma de todas sus partes; y en el que su interfaz es novedosa y singular. Las opiniones y valoraciones que obtiene en el mundo del modelado profesional y entornos 3D, lo hacen un imprescindible, poniéndolo a la misma altura que los programas de pago más conocidos. Obteniendo realmente resultados espectaculares y profesionales.
 
@@ -117,11 +117,13 @@ Blender constituiría  un híbrido, según Manovich, formado por muchos otros pr
 
 ### Referencias y Bibliografía
 
-1. Wikipedia[30 de septiembre de 2021]()
-2. Wikipedia. Códigos regionales [30 de septiembre de 2021]()
-3. El independiente [30 de sepetiembre de 2021]()
-4. Digital trends [30 de septiembre de 2021]()
-5. Comunidad electrónicos [30 de septiembre de 2021]()
-6. Hyperphysics [30 de septiembre de 2021]()
-7. Wikipedia [30 de septiembre de 2021]()
-8. Tecnología informática [30 de septiembre de 2021]()
+1. ¿Cambiará todo "metaverso" de Zuckerberg? [29 de noviembre de 2021](https://computerworld.com.br/plataformas/o-metaverso-de-zuckerberg-mudara-tudo/)
+2. Conocimiento Abierto y Tecnología [30 de noviembre de 2021](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
+3. Sintaxis Markdown[30 de noviembre de 2021](https://markdown.es/sintaxis-markdown/)
+4. Distrito metaverso [30 de noviembrede 2021](https://distritoxr.com/10-aplicaciones-de-oculus-quest-2-para-quedar-con-tus-amigos/)
+5. 10 herramientas para crear arte en la realidad virtual [30 de noviembre de 2021](https://i-amvr.com/10-herramientas-para-crear-arte-en-realidad-virtual/)
+6. Business insider[30 de noviembre de 2021](https://www.businessinsider.es/metaverso-dara-criptomonedas-oportunidad-mejorarlo-975869)
+7. Meta Quest[30 de noviembrede 2021](https://www.oculus.com/experiences/quest/3002729676463989/)
+8. Metaverso, ¿para cuándo? reconocerlo cuando llegue [30 de noviembre de 2021](https://www.newtral.es/metaverso-para-cuando-decentraland-economia-empresas/20211026/)
+9. Wikipedia, Blender[30 de noviembrede 2021](https://es.wikipedia.org/wiki/Blender)
+10. El sofware toma el mando, Lev Manovich, 2013. Editorial UOC. parte 2. formato pdf. pág 195-242.
