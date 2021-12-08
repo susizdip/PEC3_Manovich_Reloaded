@@ -24,7 +24,7 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>* nos 
 
 ***
 
-Observamos que los nuevos medios que a continuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos donde estos híbridos pretender cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo ello viene definir un nuevo concepto de internet (tridimensional, multisensorial); y por otro lado presento una herramienta multiplataforma potente que permite crear mundos tridimensionales y animarlos. ¿Puede ser la realidad virtual (VR) la apuesta innovadora del futuro?
+Observamos que los nuevos medios que a continuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos donde estos híbridos pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo ello viene definir un nuevo concepto de internet (tridimensional, multisensorial); y por otro lado presento una herramienta multiplataforma potente que permite crear mundos tridimensionales y animarlos. ¿Puede ser la realidad virtual (VR) la apuesta innovadora del futuro?
 * [Caso 1. Metaverso](#item1)
 * [Caso 2. Blender](#item2)
 
