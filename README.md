@@ -122,8 +122,8 @@ Blender constituiría  un híbrido, según Manovich, formado por muchos otros pr
 3. Sintaxis Markdown[30 de noviembre de 2021](https://markdown.es/sintaxis-markdown/)
 4. Distrito metaverso [30 de noviembrede 2021](https://distritoxr.com/10-aplicaciones-de-oculus-quest-2-para-quedar-con-tus-amigos/)
 5. 10 herramientas para crear arte en la realidad virtual [30 de noviembre de 2021](https://i-amvr.com/10-herramientas-para-crear-arte-en-realidad-virtual/)
-6. Business insider[30 de noviembre de 2021](https://www.businessinsider.es/metaverso-dara-criptomonedas-oportunidad-mejorarlo-975869)
-7. Meta Quest[30 de noviembrede 2021](https://www.oculus.com/experiences/quest/3002729676463989/)
+6. Business insider [30 de noviembre de 2021](https://www.businessinsider.es/metaverso-dara-criptomonedas-oportunidad-mejorarlo-975869)
+7. Meta Quest [30 de noviembrede 2021](https://www.oculus.com/experiences/quest/3002729676463989/)
 8. Metaverso, ¿para cuándo? reconocerlo cuando llegue [30 de noviembre de 2021](https://www.newtral.es/metaverso-para-cuando-decentraland-economia-empresas/20211026/)
-9. Wikipedia, Blender[30 de noviembrede 2021](https://es.wikipedia.org/wiki/Blender)
+9. Wikipedia, Blender [30 de noviembrede 2021](https://es.wikipedia.org/wiki/Blender)
 10. El sofware toma el mando, Lev Manovich, 2013. Editorial UOC. parte 2. formato pdf. pág 195-242.
