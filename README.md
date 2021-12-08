@@ -20,7 +20,8 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos
 
 ```
 
-<strong>Manovich, Lev</strong> *El software toma el mando*. Editorial UOC, 2013. ISBN: 978-84-9064-022-7
+<strong>Manovich, Lev</strong> *El software toma el mando*. Editorial UOC, 2013. ISBN: 978-84-9064-022-7.
+
 ***
 
 Observamos que los nuevos medios que acontinuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos en los que la presencia de estos medios pretenden cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo a través de una sola plataforma o aplicación. Mediante tecnologías inmersivas como la realidad virutal (RV) y la realidad aumentada (AR) en el caso de Metaverso o el 3D en el caso de Blender como una plataforma para el modelaje de personales y animación enrte otras cosas.
@@ -112,7 +113,7 @@ Blender constituiría  un híbrido, según Manovich, formado por muchos otros pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QRqY_20ti9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+***
 
 ### Referencias y Bibliografía
 
