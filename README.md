@@ -9,14 +9,14 @@
 En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>>* nos plantea una clara diferencía entre multimedia e hibridación de medios que surgirán y que paso a resumir en este esquema.
 
 ```markdown
-1. La multimedia es un caso de solapamiento de dos fenómenos difrerentes, mientras que en la hibridación se fusionan para ofrecer una experiencia nueva coherente, que es distinto a experimentar los elementos uno por uno. No es por tanto una remezcla para formar nuevas combinaciones, estos nuevos medios se consideran una especie.
+1. La multimedia es un caso de solapamiento de dos fenómenos difrerentes, mientras que en la hibridación se fusionan para ofrecer una experiencia nueva coherente, que es distinto a experimentar los elementos uno por uno. No es por tanto una re-mezcla para formar nuevas combinaciones, estos nuevos medios se consideran una especie.
 2. En los medios híbridos confluyen los lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a niveles profundos.
 3. Se pueden estructurar de forma distintas:
 
-	- Usando un tipo de medios como interfaz para otro tipo, es decir, utilizar un tipo de medio como envoltorio para otro tipo (como por ejemplo un 	  espacio en 3D que contiene películas, vídeos y clips).
-	- Presentan nuevas formas de representar el mundo o de navegar. Crean nuevas representataciones de experiencias humanas colectivas e individuales fundiendo las dos dimensiones la objetiva y la subjeiva. Representarn el mundo de forma novedosa, combinando y reconfigurando los medios que ya conocemos (mapas, vídeo, objetos 3d, páginas web, fotos).
-	- Los hibridos pueden centrarse en nuevas formas de navegar e interaccionar con formatos de medios ya existentes.
-	- La hibridación se produce en la interfaz de usuario y las herramientas que facilitan el proyecto, servcio o aplicación. En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios modificados y a su vez utilizarlas a su manera las ya existentes.
+	- Usando un tipo de medios como interfaz para otro tipo, es decir, utilizar un tipo de medio como envoltorio para otro tipo (como por ejemplo un espacio en 3D que contiene películas, vídeos y clips).
+	- Presentan nuevas formas de representar el mundo o de navegar. Crean nuevas representataciones de experiencias humanas colectivas e individuales fundiendo las dos dimensiones la objetiva y la subjetiva. Representan el mundo de forma novedosa, combinando y reconfigurando los medios que ya conocemos (mapas, vídeo, objetos 3d, páginas web, fotos).
+	- Los híbridos pueden centrarse en nuevas formas de navegar e interaccionar con formatos de medios ya existentes.
+	- La hibridación se produce en la interfaz de usuario y las herramientas que facilitan el proyecto, servicio o aplicación. En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios modificados y a su vez utilizarlas a su manera las ya existentes.
 
 ```
 
@@ -30,24 +30,26 @@ Observamos que los nuevos medios que acontinuación mencionamos en este informe 
 ***
 
 ## Re-descubriendo la hibridacion: Metaverso. 
-Bailar en un concietro en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo en los próximos años, pensado entre 5 - 10 años, recordandonos un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zukerberg apuesta para establecer como parte de una tendecia dominante que creo no va ser demasiado económica a pesar de que prodiga como menos contaminante ya que se hace todo desde casa. Meta como parte de su proyecto ya adquirido al productor de realidad virtual las oculus además de las gafas Ray-Ban para realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon, con no demasiado éxito. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
+Bailar en un concierto en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo en los próximos años, pensado entre 5 - 10 años, recordándonos un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zuckerberg apuesta para establecer como parte de una tendencia dominante que creo no va ser demasiado económica a pesar de que prodiga como menos contaminante ya que se hace todo desde casa. Meta como parte de su proyecto ya adquirido al productor de realidad virtual las Oculus además de las gafas Ray-Ban para realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon, con no demasiado éxito. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
 
 ¿Qué aplicaciones se están desarrollando?
 
 #### *Wander*
 
-Podría ser el Google Street View de realidad virual, pudiendo teletransportarnos a cualquier lugar del mundo acompañados de amigos. Pirámides de Egipto, Antártida, Patagonia, quién dice que están lejos... solo necesitaremos pagar la aplicación y unas oculus para tenerlo al alcance de la mano. Uniendo en este caso la realidad virtual, con Google maps, Google Etarh, Google Street view, además de la geolocalización en una app inmersa en una plataforma como facebook, aunque no necesariamente, para aportarnos una experiencia compartida de teletransportarnos a algún lugar seleccionado y comentarlo entre todos.
+Podría ser el Google Street View de realidad virtual, pudiendo teletransportarnos a cualquier lugar del mundo acompañados de amigos. Pirámides de Egipto, Antártida, Patagonia, quién dice que están lejos... solo necesitaremos pagar la aplicación y unas oculus para tenerlo al alcance de la mano. Uniendo en este caso la realidad virtual, con Google maps, Google Earth, Google Street view, además de la geolocalización en una app incluida en una plataforma como facebook, aunque no necesariamente, para aportarnos una experiencia compartida de teletransportarnos a algún lugar seleccionado y comentarlo entre todos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xZHsQJlqbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 #### *Spatial*
 
-Enfocada al teletrabajo y presentacioens inmersivas, compartándose de forma similar a lo que lo hace Zoom o Teams pero con avatares y lugares virtuales ficticios donde interactuar y negociar. Nos permitirá crear un avatar 3D realista a partir de un selfie en segundos, usuar bloc de notas, busquéda de imágenes todo ello integrado totalmente con Slack (es una nueva forma de comunicarse con su equipo. Es más rápido, mejor organizado y más seguro que el correo electrónico), Google Drive y más. Estamos seguros de que requeríra una interfaz específica o apropiada de otras.
+Enfocada al teletrabajo y presentaciones inmersivas, comportándose de forma similar a lo que lo hace Zoom o Teams pero con avatares y lugares virtuales ficticios donde interactuar y negociar. Nos permitirá crear un avatar 3D realista a partir de un selfie en segundos, usar bloc de notas, búsqueda de imágenes todo ello integrado totalmente con Slack (es una nueva forma de comunicarse con su equipo. Es más rápido, mejor organizado y más seguro que el correo electrónico), Google Drive y más...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0JD6F9XYrMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### *vTime XR* 
-VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni minijuegos pero que nos aporta un lugar tranquilo para conversar. Es un lugar alrededor de cual se pueden compartir experiencias, con diferentes ubicaciones realistas y que nos permite subir fotografías propias para que sirvan como decorado en las reuniones.
+
+#### *VTime XR* 
+VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni mini-juegos pero que nos aporta un lugar tranquilo para conversar. Es un lugar alrededor de cual se pueden compartir experiencias, con diferentes ubicaciones realistas y que nos permite subir fotografías propias para que sirvan como decorado en las reuniones.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1krqwpe_E0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -55,54 +57,58 @@ VTime, una aplicación que nos ofrece el ni el uso compartido de pantalla, ni mi
 
 Es una app de Facebook,creada para eventos sociales.
 
-[aplicaciones disponibles](https://www.oculus.com/experiences/quest/3002729676463989/)
+[Aplicaciones disponibles](https://www.oculus.com/experiences/quest/3002729676463989/)
 
 #### *FitXR*
-Se trata de aplicación número uno en boxeo, HIIT y baile, cuenta con cientos de ejercicios para usuarios intermedios y avanzados. El usaurio de la app se une a una comunidad en continua crecimiento, entre ellos se entrena con 6 amigos, y quema calorías haciendo ejercicios para elevar la fuerza y nivel de endomorfinas. Para todos los días hay una clase diseñada. Disponen de la elección de la mejor música y de chat de voz, así como de entornos llenos de energía.
+Se trata de aplicación número uno en boxeo, HIIT y baile, cuenta con cientos de ejercicios para usuarios intermedios y avanzados. El usuario de la app se une a una comunidad en continua crecimiento, entre ellos se entrena con 6 amigos, y quema calorías haciendo ejercicios para elevar la fuerza y nivel de endomorfinas. Para todos los días hay una clase diseñada. Disponen de la elección de la mejor música y de chat de voz, así como de entornos llenos de energía.
 
-[aplicaciones disponibles](https://www.oculus.com/experiences/quest/2327205800645550/)
+[Aplicaciones disponibles](https://www.oculus.com/experiences/quest/2327205800645550/)
 
 Otros casos de aplicaciones son aquellas para la creación de realidad de virtual, aplicaciones que permiten pintar en realidad virtual, esculpir, modelar y hasta animar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dhIxY6G-UHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### *Medium*
-Herramienta que permite esculpir, pintar, modelar, y crear objetos en entornos de realida virtual
+
+#### *Sculptr VR*
+Es una herramienta que permite crear objetos y mundos tridimensionales de forma colaborativa y en línea, nos permite unas creaciones cuanto menos singulares a modo de figuras de plastilina. Dispone de una galería interactiva en el que poder ver ate de otros y subir nuestras propias creaciones.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XG3giZ1pys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El desarrollo de esta próxima frontera tecnológica implica que que no será una implementación radical, sino paulatina por lo que se irán incluyendo nuevas plataformas, elementos e interconexiones hasta que en un futuro no muy lejano podamos hablar de metaveso.
 Según Mark Zuckerberg conllevará la creación de 10.000 puestos de empleo solo en Europa.
 
 Los atributos centrales o pilares de metaverso son:
 
-- Es persistente: no termina, no se pausa, no se reinicia. Continúa de forma idefinida
-- Está sincronizado y es directo: es una experiencia en vivo que exisite de forma consistente en el tiempo real para todos.
+- Es persistente: no termina, no se pausa, no se reinicia. Continúa de forma indefinida
+- Está sincronizado y es directo: es una experiencia en vivo que existe de forma consistente en el tiempo real para todos.
 - No tiene tope para los usuarios concurrentes, mientras que provee a cada usuario con un sentido individual de presencia.
-- Es una economía completamente funcional: donde los individuos y compañias pueden crear, poseer, vender y ser retribuidos por un rango increiblemente de trabajo que produce valor reconocidos por todos.
+- Es una economía completamente funcional: donde los individuos y compañías pueden crear, poseer, vender y ser retribuidos por un rango increíblemente de trabajo que produce valor reconocidos por todos.
 - Es una experiencia que expande ambos mundos, el mundo digital y el mundo físico, redes y experiencias públicas y privadas, así como plataformas abiertas y cerradas.
-- Ofrece interoperabilidad a una escala sin prcedentes: en cuanto a datos, ítems de valores digitales, contenidos y así a través de cada una de las experiencias.
+- Ofrece interoperabilidad a una escala sin precedentes: en cuanto a datos, ítems de valores digitales, contenidos y así a través de cada una de las experiencias.
 - Está poblado de contenido y experiencias creadas y operadas por un increíble amplio rango de colaboradores, que pueden ser individuos independientes, estar organizados en grupos informales o ser empresas con fines comerciales.
 
 !Todo un mundo autosuficiente!
 
 ***
 
-## Re-descubriendo la hibridacion: Blender
-Es un programa informático muktuplataforma dedicado al modelado, iluminación, renderizado y animación en gráficos tridimensionales. Utilizndo téncica procesal de nodos, edición de vídeo y escultura, además de pintura digital, es software libre y compatible con casi todos los sitemas operativos. Se creo incialmente como un programa interno para el modelaje 3D de un estudio, NeoGeo 1988, de ahí pasó ser una empresa independiente exclusivamente dedicada al desarrollo de Blender con la inteción de ponerla en la mano de cualquier artista o estudio. 1999, NaN (Not a Numbre), presento oficialmente a Blender de forma que consiguió financiación inmedita, de forma que la empresa paso a tener 50 trabajadores distibuidos por todo el mundo y dedicados exclusivamente al desarrollo Blender. Una de las caraterísticas de Blender es una interfaz no muy común y de una comunidad de usuarios que fomentan, y desarrolllan indirectamente el producto hasta el presente. Blender auna una mutiplataforma con herrmientas como animación que incuye ciemática inversiva, edición de audio, mallas poligonales, renderizado, lenguaje Pyton, Motor de juego 3D integrado, simuladores dinámicos, simulador de texturas y capacidad de hacer match moving, mover la cámara en entronos virtuales al igual que se haría en una película, de forma que cuando los elementos generados son integrados en algún film, anuncio, parecen estar ahí desde un principo.
+## Re-descubriendo la hibridación: Blender
+Es un programa informático multiplataforma dedicado al modelado, iluminación, renderizado y animación en gráficos tridimensionales. Utilizando técnica procesal de nodos, edición de vídeo y escultura, además de pintura digital, es software libre y compatible con casi todos los sistemas operativos. Se creo inicialmente como un programa interno para el modelado 3D de un estudio, NeoGeo 1988, de ahí pasó ser una empresa independiente exclusivamente dedicada al desarrollo de Blender con la intención de ponerla en la mano de cualquier artista o estudio. 1999, NaN (Not a Numbre), presento oficialmente a Blender de forma que consiguió financiación imedita, de forma que la empresa paso a tener 50 trabajadores distribuidos por todo el mundo y dedicados exclusivamente al desarrollo Blender. Una de las características de Blender es una interfaz no muy común y de una comunidad de usuarios que fomentan, y desarrolllan indirectamente el producto hasta el presente. Blender aúna una multiplataforma con herramientas como animación que incluye cinemática inversiva, edición de audio, mallas poligonales, renderizado, lenguaje Python, Motor de juego 3D integrado, simuladores dinámicos, simulador de texturas y capacidad de hacer match moving,  que consiste en mover la cámara en entornos virtuales al igual que se haría en una película, de forma que cuando los elementos generados son integrados en algún film, anuncio, parecen estar ahí desde un principio.
 
 ![Captura de pantalla 2021-12-07 a las 21 31 14](https://user-images.githubusercontent.com/95432042/145102296-4e4b0747-76a3-4db1-9e8e-8bb8a071494b.png)
 
-<b style="color:#f5cb11">interfaz de blender</b>
+<b style="color:#f5cb11">Interfaz de blender</b>
 
-La complejidad de la interfaz salta a primera vista ya que incluye menis para la animación 3D, para la escultura digital y el renderizado, animación 2D, vídeo, iluminaicón, escenarios y pintura digital. Hasta la versión 2.8 era bastante más compeljo está versión marco un después en cuanto a usuabilidad, haciéndose mucho más fácil. Su organización está pensada para que podamos pasar de un entorno a otro en función de nuestras necesidades de forma que si estamos en modelado estaremos en en el entorno Default (por defecto) y si vamos a hacer el montaje de una película pasaremos a enorno de vídeo editin o editor de vídeos, las distintas áreas en las que se divide un entorno son los editores y puede ser elejidos por el usuario desplegando el menú correspondiente al icono de cada área.
+La complejidad de la interfaz salta a primera vista ya que incluye menús para la animación 3D, para la escultura digital y el renderizado, animación 2D, vídeo, iluminación, escenarios y pintura digital. Hasta la versión 2.8 era bastante más complejo, está versión marco un antes y después en cuanto a usabilidad, haciéndose mucho más fácil el manejo de su entorno. Su organización está pensada para que podamos pasar de un entorno a otro en función de nuestras necesidades de forma que si estamos en modelado estaremos en en el entorno Default (por defecto) y si vamos a hacer el montaje de una película pasaremos a entorno de vídeo editing o editor de vídeos, las distintas áreas en las que se divide un entorno son los editores y puede ser elegidos por el usuario desplegando el menú correspondiente al icono de cada área.
 
 <img width="1439" alt="Captura de pantalla 2021-12-07 a las 21 49 45" src="https://user-images.githubusercontent.com/95432042/145104175-6e859c18-49f4-4cee-95c1-808b72e2f044.png">
 
 <b style="color:#f5cb11">Menú de Blender</b>
-Las posibilidades del programa son enormes y el aprendizaje requiere un poco de esfuerzo para hacerse con todas estas posiblidades descritas, la gan ventaja es toda la información que podemos obtener de la comunidad de Blender y la explicación de todas las ventanas, herramientas y controles de la interfaz. Os dejo el link por si os animáis.
+
+Las posibilidades del programa son enormes y el aprendizaje requiere un poco de esfuerzo para hacerse con todas estas opciones descritas, la gran ventaja es toda la información que podemos obtener de la comunidad de Blender y los elementos didácticos disponibles con la explicación de todas las ventanas, herramientas y controles de la interfaz. Os dejo el link por si os animáis.
 
 [comunidad Blender](https://www.oculus.com/experiences/quest/2327205800645550/)
 
-Blender constituría un híbrido formado por muchos otros programas en que el todo es más que la suma de todas sus partes. Las opiniones y valoraciones en el mundo del modelaje profesional y entornos 3D, lo hacen un imprescindible, poniéndolo a la misma altura que los programas de pago más conocidos.
+Blender constituiría  un híbrido, según Manovich, formado por muchos otros programas en que el todo es más que la suma de todas sus partes; y en el que su interfaz es novedosa y singular. Las opiniones y valoraciones que obtiene en el mundo del modelado profesional y entornos 3D, lo hacen un imprescindible, poniéndolo a la misma altura que los programas de pago más conocidos. Obteniendo realmente resultados espectaculares y profesionales.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QRqY_20ti9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -110,4 +116,11 @@ Blender constituría un híbrido formado por muchos otros programas en que el to
 
 ### Referencias y Bibliografía
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wikipedia[30 de septiembre de 2021]()
+Wikipedia. Códigos regionales [30 de septiembre de 2021]()
+El independiente [30 de sepetiembre de 2021]()
+Digital trends [30 de septiembre de 2021]()
+Comunidad electrónicos [30 de septiembre de 2021]()
+Hyperphysics [30 de septiembre de 2021]()
+Wikipedia [30 de septiembre de 2021]()
+Tecnología informática [30 de septiembre de 2021]()
