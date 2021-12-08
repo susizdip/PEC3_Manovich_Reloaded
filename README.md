@@ -25,11 +25,13 @@ En el libro *El software toma el mando*, *de <strong>Lev Manovich</strong>* nos 
 ***
 
 Observamos que los nuevos medios que a continuación mencionamos en este informe cumplen a la perfección lo predicho por Manovich hace aproximadamente 10 años, son ahora y en estos momentos donde estos híbridos pretender cambiar nuestras relaciones sociales, forma de trabajo, comprar, invertir, divertirnos, aprender o producir, todo ello viene definir un nuevo concepto de internet (tridimensional, multisensorial); y por otro lado presento una herramienta multiplataforma potente que permite crear mundos tridimensionales y animarlos. ¿Puede ser la realidad virtual (VR) la apuesta innovadora del futuro?
+* [Caso 1. Metaverso](#item1)
+* [Caso 2. Blender](#item2)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ot9lLrQHocA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
-
+<a name="item1"></a>
 ## Re-descubriendo la hibridacion: Metaverso. 
 Bailar en un concierto en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo en los próximos años, pensado entre 5 - 10 años, recordándonos un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zuckerberg apuesta para establecer como parte de una tendencia dominante que creo no va ser demasiado económica a pesar de que prodiga como menos contaminante ya que se hace todo desde casa. Meta como parte de su proyecto ya adquirido al productor de realidad virtual las Oculus además de las gafas Ray-Ban para realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon, con no demasiado éxito. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
 
@@ -91,6 +93,7 @@ Los atributos centrales o pilares de metaverso son:
 !Todo un mundo autosuficiente!
 
 ***
+<a name="item2"></a>
 
 ## Re-descubriendo la hibridación: Blender
 Es un programa informático multiplataforma dedicado al modelado, iluminación, renderizado y animación en gráficos tridimensionales. Utilizando técnica procesal de nodos, edición de vídeo y escultura, además de pintura digital, es software libre y compatible con casi todos los sistemas operativos. Se creo inicialmente como un programa interno para el modelado 3D de un estudio, NeoGeo 1988, de ahí pasó ser una empresa independiente exclusivamente dedicada al desarrollo de Blender con la intención de ponerla en la mano de cualquier artista o estudio. 1999, NaN (Not a Numbre), presento oficialmente a Blender de forma que consiguió financiación imedita, de forma que la empresa paso a tener 50 trabajadores distribuidos por todo el mundo y dedicados exclusivamente al desarrollo Blender. Una de las características de Blender es una interfaz no muy común y de una comunidad de usuarios que fomentan, y desarrolllan indirectamente el producto hasta el presente. Blender aúna una multiplataforma con herramientas como animación que incluye cinemática inversiva, edición de audio, mallas poligonales, renderizado, lenguaje Python, Motor de juego 3D integrado, simuladores dinámicos, simulador de texturas y capacidad de hacer match moving,  que consiste en mover la cámara en entornos virtuales al igual que se haría en una película, de forma que cuando los elementos generados son integrados en algún film, anuncio, parecen estar ahí desde un principio.
@@ -122,7 +125,7 @@ Blender constituiría  un híbrido, según Manovich, formado por muchos otros pr
 3. Sintaxis Markdown[30 de noviembre de 2021](https://markdown.es/sintaxis-markdown/)
 4. Distrito metaverso [30 de noviembrede 2021](https://distritoxr.com/10-aplicaciones-de-oculus-quest-2-para-quedar-con-tus-amigos/)
 5. 10 herramientas para crear arte en la realidad virtual [30 de noviembre de 2021](https://i-amvr.com/10-herramientas-para-crear-arte-en-realidad-virtual/)
-6. Business insider [30 de noviembre de 2021](https://www.businessinsider.es/metaverso-dara-criptomonedas-oportunidad-mejorarlo-975869)
+6. Business insider[30 de noviembre de 2021](https://www.businessinsider.es/metaverso-dara-criptomonedas-oportunidad-mejorarlo-975869)
 7. Meta Quest [30 de noviembrede 2021](https://www.oculus.com/experiences/quest/3002729676463989/)
 8. Metaverso, ¿para cuándo? reconocerlo cuando llegue [30 de noviembre de 2021](https://www.newtral.es/metaverso-para-cuando-decentraland-economia-empresas/20211026/)
 9. Wikipedia, Blender [30 de noviembrede 2021](https://es.wikipedia.org/wiki/Blender)
