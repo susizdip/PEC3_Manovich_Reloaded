@@ -100,7 +100,7 @@ Es un programa informático multiplataforma dedicado al modelado, iluminación, 
 
 La complejidad de la interfaz salta a primera vista ya que incluye menús para la animación 3D, para la escultura digital y el renderizado, animación 2D, vídeo, iluminación, escenarios y pintura digital. Hasta la versión 2.8 era bastante más complejo, está versión marco un antes y después en cuanto a usabilidad, haciéndose mucho más fácil el manejo de su entorno. Su organización está pensada para que podamos pasar de un entorno a otro en función de nuestras necesidades de forma que si estamos en modelado estaremos en en el entorno Default (por defecto) y si vamos a hacer el montaje de una película pasaremos a entorno de vídeo editing o editor de vídeos, las distintas áreas en las que se divide un entorno son los editores y puede ser elegidos por el usuario desplegando el menú correspondiente al icono de cada área.
 
-<img width="1439" alt="Captura de pantalla 2021-12-07 a las 21 49 45" src="https://user-images.githubusercontent.com/95432042/145104175-6e859c18-49f4-4cee-95c1-808b72e2f044.png">
+<img width="1439" alt="Captura de pantalla 2021-12-07 a las 21 49 45" src="https://user-images.githubusercontent.com/95432042/145156568-c07c440a-a104-4587-9258-a260718db7e2.png">
 
 <b style="color:#f5cb11">Menú de Blender</b>
 
