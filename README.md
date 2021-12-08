@@ -116,11 +116,11 @@ Blender constituiría  un híbrido, según Manovich, formado por muchos otros pr
 
 ### Referencias y Bibliografía
 
-Wikipedia[30 de septiembre de 2021]()
-Wikipedia. Códigos regionales [30 de septiembre de 2021]()
-El independiente [30 de sepetiembre de 2021]()
-Digital trends [30 de septiembre de 2021]()
-Comunidad electrónicos [30 de septiembre de 2021]()
-Hyperphysics [30 de septiembre de 2021]()
-Wikipedia [30 de septiembre de 2021]()
-Tecnología informática [30 de septiembre de 2021]()
+1. Wikipedia[30 de septiembre de 2021]()
+2. Wikipedia. Códigos regionales [30 de septiembre de 2021]()
+3. El independiente [30 de sepetiembre de 2021]()
+4. Digital trends [30 de septiembre de 2021]()
+5. Comunidad electrónicos [30 de septiembre de 2021]()
+6. Hyperphysics [30 de septiembre de 2021]()
+7. Wikipedia [30 de septiembre de 2021]()
+8. Tecnología informática [30 de septiembre de 2021]()
