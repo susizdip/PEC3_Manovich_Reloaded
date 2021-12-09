@@ -32,7 +32,7 @@ Observamos que los nuevos medios que a continuación mencionamos en este informe
 
 ***
 <a name="item1"></a>
-## Re-descubriendo la hibridacion: Metaverso. 
+## Caso 1: Metaverso. 
 Bailar en un concierto en directo de forma virtual, reunirse en una fiesta con amigos que viven en la punta del mundo, explorar impresionantes lugares antiguos, reunirse casualmente con Leo Messi, estas son algunas de las visiones que tiene facebook, Meta, para su desarrollo en los próximos años, pensado entre 5 - 10 años, recordándonos un poco a Matrix u otras películas de futuros distópicos y siendo la realidad virtual el eje central sobre el que se desarrollará este objetivo ambicioso, pero al que Mark Zuckerberg apuesta para establecer como parte de una tendencia dominante que creo no va ser demasiado económica a pesar de que prodiga como menos contaminante ya que se hace todo desde casa. Meta como parte de su proyecto ya adquirido al productor de realidad virtual las Oculus además de las gafas Ray-Ban para realidad aumentada y además ya dispone de una mundo vitural para reuniones de negocios y amigos, Horizon, con no demasiado éxito. Todo esto requerirá de datos, al memos de 200 Mb/s y tecnología 5G móvil. Dicen que será la nueva versión de internet, una experiencia en 3D multisensorial, una evolución de la web abierta.
 
 ¿Qué aplicaciones se están desarrollando?
@@ -95,7 +95,7 @@ Los atributos centrales o pilares de metaverso son:
 ***
 <a name="item2"></a>
 
-## Re-descubriendo la hibridación: Blender
+## Caso 2: Blender
 Es un programa informático multiplataforma dedicado al modelado, iluminación, renderizado y animación en gráficos tridimensionales. Utilizando técnica procesal de nodos, edición de vídeo y escultura, además de pintura digital, es software libre y compatible con casi todos los sistemas operativos. Se creo inicialmente como un programa interno para el modelado 3D de un estudio, NeoGeo 1988, de ahí pasó ser una empresa independiente exclusivamente dedicada al desarrollo de Blender con la intención de ponerla en la mano de cualquier artista o estudio. 1999, NaN (Not a Numbre), presento oficialmente a Blender de forma que consiguió financiación imedita, de forma que la empresa paso a tener 50 trabajadores distribuidos por todo el mundo y dedicados exclusivamente al desarrollo Blender. Una de las características de Blender es una interfaz no muy común y de una comunidad de usuarios que fomentan, y desarrolllan indirectamente el producto hasta el presente. Blender aúna una multiplataforma con herramientas como animación que incluye cinemática inversiva, edición de audio, mallas poligonales, renderizado, lenguaje Python, Motor de juego 3D integrado, simuladores dinámicos, simulador de texturas y capacidad de hacer match moving,  que consiste en mover la cámara en entornos virtuales al igual que se haría en una película, de forma que cuando los elementos generados son integrados en algún film, anuncio, parecen estar ahí desde un principio.
 
 ![Captura de pantalla 2021-12-07 a las 21 31 14](https://user-images.githubusercontent.com/95432042/145102296-4e4b0747-76a3-4db1-9e8e-8bb8a071494b.png)
